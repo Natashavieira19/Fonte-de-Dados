@@ -18,4 +18,5 @@ Banco de Dados - GPI - 2 Semestre 2025
 
 ## Atividade 6: Grafico de dispersão Experiencia x salário 
 ![WhatsApp Image 2025-11-09 at 12 39 06 (1)](https://github.com/user-attachments/assets/65c889f1-e7f1-452a-aaeb-14999894bcc7)
-<img width="891" height="487" alt="image" src="https://github.com/user-attachments/assets/d7bd44b0-b8c4-4efe-8093-df00b9799114" />
+<img width="870" height="561" alt="image" src="https://github.com/user-attachments/assets/70a11bd1-5c4f-4dfa-8c3a-82a4504f2201" />
+
