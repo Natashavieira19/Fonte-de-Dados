@@ -3,7 +3,7 @@ Banco de Dados - GPI - 2 Semestre 2025
 ## Apresentação1: Utilizamos o software Canva para criação dos slides.
 <img width="1196" height="673" alt="image" src="https://github.com/user-attachments/assets/dfc8f450-da9f-4f8e-afe2-577871bdf76a" />
 
-## Atividade 2: Atividade 2: Processamento e análise de dados utilizando a plataforma Excel, com o propósito de solucionar questões aplicadas e aprimorar a proficiência no uso de funções e fórmulas para tratamento e interpretação de informações.
+## Atividade 2: Processamento e análise de dados utilizando a plataforma Excel, com o propósito de solucionar questões aplicadas e aprimorar a proficiência no uso de funções e fórmulas para tratamento e interpretação de informações.
 <img width="1919" height="1031" alt="Captura de tela 2025-09-12 204751" src="https://github.com/user-attachments/assets/036af576-58e9-4a1a-ac11-5a1662119dcd" />
 
 ## Atividade 3: POWER BI
