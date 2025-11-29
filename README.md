@@ -20,3 +20,6 @@ Banco de Dados - GPI - 2 Semestre 2025
 ![WhatsApp Image 2025-11-09 at 12 39 06 (1)](https://github.com/user-attachments/assets/65c889f1-e7f1-452a-aaeb-14999894bcc7)
 <img width="870" height="561" alt="image" src="https://github.com/user-attachments/assets/70a11bd1-5c4f-4dfa-8c3a-82a4504f2201" />
 
+## PROVA: Dashboard funcional indice
+https://github.com/user-attachments/assets/310a6ae3-c4ef-4ec9-a223-6a5695e03d21
+
