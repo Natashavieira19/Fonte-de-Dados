@@ -22,4 +22,3 @@ Banco de Dados - GPI - 2 Semestre 2025
 
 ## PROVA: Dashboard funcional indice
 https://github.com/user-attachments/assets/310a6ae3-c4ef-4ec9-a223-6a5695e03d21
-
